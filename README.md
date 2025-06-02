@@ -2,7 +2,7 @@
 
 I'm a **Computer Science** student with a big interest into technology and writing. **Digital safety** and **internet privacy** are my passions. Currently working on several basic projects to grow my personal portfolio.
 
-### Languages I'm mastering
+### Languages that I want to master
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![cpp](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
